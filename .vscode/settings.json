@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all", // スペースの可視化
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    },
+    "editor.defaultFormatter": "charliermarsh.ruff",
+  },
+}
